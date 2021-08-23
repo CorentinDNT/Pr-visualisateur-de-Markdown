@@ -1,4 +1,4 @@
-# Prévisualisateur de markdown façon gitHub ! 
+# Prévisualisateur de markdown façon gitHub (avec react) ! 
 <p align="center">
   <img width="80%" src='https://github.com/CorentinDNT/Pr-visualisateur-de-Markdown/blob/develop/public/img/screen-1.png' />
 </p>

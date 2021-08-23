@@ -4,8 +4,8 @@ import "./App.css";
 
 const App = () => {
   const [text, setText] = useState("");
-  const changeTextHandler = (event) => {
-    setText(event.target.value);
+  const changeTextHandler = (e) => {
+    setText(e.target.value);
   };
   const markdownToHTML = () => {
     return { __html: marked(text) };
